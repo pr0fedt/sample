@@ -1,0 +1,12 @@
+[ignore]
+
+[include]
+../node_modules/express
+../node_modules/body-parser
+../node_modules/cookie-parser
+../node_modules/method-override
+
+[libs]
+../flow
+
+[options]
